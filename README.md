@@ -1,6 +1,6 @@
 # KUMC-Medical_AI
 
-2024 자동차 데이터 분석 경진대회
+제1회 Medical AI (MAI) 경진대회
 
 ![image](https://github.com/user-attachments/assets/3f636169-6ec2-4df8-8168-0c18f4e59e78)
 
