@@ -2,9 +2,6 @@
 
 제1회 Medical AI (MAI) 경진대회
 
-![image](https://github.com/user-attachments/assets/3f636169-6ec2-4df8-8168-0c18f4e59e78)
-
-
 ## Result
 
 - awards: 장려상
